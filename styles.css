@@ -1,0 +1,44 @@
+body {
+    background-color: #d3be9e;
+}
+
+.recipes {
+    list-style: none;
+    text-align: center;
+    font-size: 23px;
+}
+
+a {
+text-decoration: none;
+color: white;
+}
+
+a:hover {
+    color: #9b7d51;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Ingredients {
+    list-style: square;
+    font-size: 18px;
+    color: darkgreen;
+}
+
+.Description {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    line-height: 23px;
+}
+
+ol {
+    line-height: 25px;
+}
+
+.food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
